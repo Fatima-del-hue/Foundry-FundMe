@@ -1,4 +1,5 @@
 #About 
+
 A decentralized crowdfunding smart contract built using Foundry and Chainlink.
 This project allows users to fund the contract owner in ETH, with each contribution valued in USD using Chainlink Price Feeds.
 If a donation doesn’t meet the minimum USD threshold, it’s rejected.
@@ -6,11 +7,13 @@ The contract tracks all funders, making it easy to reward or refund contributors
 
 
 #Getting Started
+
 This section will help you set up the project locally so you can build, test, and deploy the Fund Me smart contract yourself.
 Whether you’re new to Foundry or already familiar with Solidity, these steps will get you running quickly and confidently.
 
 
 #Requirements
+
 Before you begin, make sure you have the following installed:
 -Foundry
  (includes forge and cast)
@@ -25,6 +28,7 @@ Before you begin, make sure you have the following installed:
 
 
 #QuickStart
+
 Clone the repository and install dependencies:
 
 git clone https://github.com/<your-username>/Foundry-FundMe.git
